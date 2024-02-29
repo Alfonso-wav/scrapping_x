@@ -1,2 +1,5 @@
 selenium
 pandas
+matplotlib
+pandas
+seaborn
